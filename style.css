@@ -1,0 +1,14 @@
+body
+{
+	background-color: White;
+	font-family: serif;
+	color: #003E80;
+	margin: 50px;
+	text-align: center;
+}
+h1 {
+font-size: 36px;
+color: red;
+font-family: 'Open Sans';
+}
+
